@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Cash is King, Debt is Dumb!
 Use the left arrow to go back!
